@@ -1,0 +1,58 @@
+.main-page {
+  height: 100vh;
+  background-image: url("/img/chef.jpg");
+  background-size: cover;
+}
+.overlay {
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+}
+.timer-box {
+  height: 400px;
+  width: 600px;
+  border: 7px solid #3a3939;
+  margin: auto;
+}
+.timer-box h2 {
+  color: white;
+}
+.box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid white;
+  margin: 3px;
+}
+.b-1 {
+  border: none;
+  border-right: 2px solid #3a3939;
+}
+.b-2 {
+  border: none;
+  border-right: 2px solid #3a3939;
+}
+.b-3 {
+  border: none;
+  border-right: 2px solid #3a3939;
+}
+.b-4 {
+  border: none;
+}
+.mybtn {
+  width: 150px;
+  height: 40px;
+  background-color: #eb3007;
+  color: white;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+.mybtn:hover {
+  background-color: #c52500;
+}
+.social-media-box i {
+  margin: 4px;
+  color: white;
+}
